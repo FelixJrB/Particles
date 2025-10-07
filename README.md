@@ -65,8 +65,8 @@ Detta projekt kräver:
 
 3. **Kör projektet**
    - Öppna projektet i VS Code
-   - Högerklicka på HTML-filen
-   - Välj "Open with Live Server" eller använd p5canvas preview
+   - Högerklicka på Javascript-filen
+   - Välj p5canvas preview 
 
 ## Användning
 
